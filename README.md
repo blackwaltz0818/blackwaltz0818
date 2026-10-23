@@ -1,8 +1,8 @@
-# Yu-Ta (Jason) Chuang
+# Jason Chuang
 
 I build AI automation systems: n8n workflows, Claude knowledge assistants, and document pipelines.
 
-19 years in enterprise systems (KPMG, E.SUN Bank, Mercedes-Benz) as a business analyst and solutions architect. One rule guides my builds: map how the business works before you automate any part of it.
+19 years in enterprise systems (KPMG, E.SUN Bank, Mercedes-Benz Mobility) as a business analyst and solutions architect. One rule guides my builds: map how the business works before you automate any part of it.
 
 **Recent builds**
 - A knowledge assistant that answers questions from 20 years of consulting documents, with page-level citations
